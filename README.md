@@ -15,10 +15,9 @@ This project was created as part of a technical assessment for a QA/SDET positio
 ## ✅ What’s Included
 
 - Automated tests for key user flows such as:
-  - Logging in
-  - Viewing mentor list
-  - Viewing mentor profile/details
-  - Booking a mentoring schedule (couldn't do it because many Mentor is full schedule)
+  - Searching
+  - Search mentor and Viewing mentor profile/details
+  - Logging in andBooking a mentoring schedule
 
 ---
 
