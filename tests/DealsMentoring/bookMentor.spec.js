@@ -37,4 +37,6 @@ test('User can book a mentoring session', async ({ page }) => {
     await page.getByLabel('Saya telah memposting ulang postingan di atas & tag 3 teman di bagian komentar').check();
     await page.getByLabel("I commit to attend the schedule I’ve chosen & understand the failure to attend 2x may result to suspension").check();
     await page.click('button:has-text("Selesai")');
+
 });
+
